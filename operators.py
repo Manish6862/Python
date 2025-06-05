@@ -67,23 +67,25 @@
 # d = 30
 # print(not (c < d))
 
-#and
-val1 = True
-val2 = True
-print("And ans :",val1 and val2)
+# #and
+# val1 = True
+# val2 = True
+# print("And ans :",val1 and val2)
 
-val1 = True
-val2 = False
-print("And Operator :",val1 and val2)
+# val1 = True
+# val2 = False
+# print("And Operator :",val1 and val2)
 
-a = 30
-b = 20
-print("And Operator :", (a < b) and (a >= b))
+# a = 30
+# b = 20
+# print("And Operator :", (a < b) and (a >= b))
 
-val1 = True
-val2 = False
-print("or Operator :",val1 or val2)
+# #or
+# val1 = True
+# val2 = False
+# print("or Operator :",val1 or val2)
 
-a = 30
-b = 20
-print("And Operator :", (a > b) or (a >= b))
+# a = 30
+# b = 20
+# print("And Operator :", (a > b) or (a >= b))
+
